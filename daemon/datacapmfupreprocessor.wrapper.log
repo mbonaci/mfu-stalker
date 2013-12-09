@@ -1,0 +1,5 @@
+2013-11-18 22:59:11 - Starting C:\Program Files\nodejs\node.exe --harmony "D:\Downloads\mfu-stalker-chokidar\node_modules\node-windows\lib\wrapper.js" -f "D:\Downloads\mfu-stalker-chokidar\server.js" -l "Datacap MFU pre-processor" -g 0.25 -w 1 -r 3 -a n
+2013-11-18 22:59:11 - Started 4220
+2013-11-18 23:08:23 - Stopping datacapmfupreprocessor.exe
+2013-11-18 23:08:23 - ProcessKill 4220
+2013-11-18 23:08:23 - Finished datacapmfupreprocessor.exe

@@ -1,0 +1,27 @@
+{
+  "name": "MFU-Stalker",
+  "preferGlobal": false,
+  "version": "0.2.2",
+  "author": "Marko Bonaci <marko.bonaci@svgroup.hr>",
+  "description": "a simple file system watcher and xml/tif file pre-processor for MFU devices",
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "main": "./server.js",
+  "keywords": [
+    "fs",
+    "chokidar",
+    "mfu"
+  ],
+  "dependencies" : {
+    "chokidar"      :  "0.7.1",
+    "xml2js"        :  "0.2.8",
+    "graceful-fs"   :  "2.0.1",
+    "log"           :  "1.4.0"
+  },
+  "analyze": false,
+  "license": "SV Group for internal Zaba usage",
+  "engines": {
+    "node": ">=0.10"
+  }
+}
