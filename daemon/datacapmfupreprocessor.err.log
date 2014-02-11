@@ -1,0 +1,65 @@
+Vjerojatno takav direktorij već postoji - nastavljam... { [Error: EEXIST, file already exists 'D:\DatacapIngestion\SCANPrepared\2014-01-16T16.34.16--ET0021B744AA28--z001804']
+  errno: 47,
+  code: 'EEXIST',
+  path: 'D:\\DatacapIngestion\\SCANPrepared\\2014-01-16T16.34.16--ET0021B744AA28--z001804',
+  syscall: 'mkdir' }
+
+fs.js:543
+  return binding.rename(pathModule._makeLong(oldPath),
+                 ^
+Error: ENOENT, no such file or directory 'D:\DatacapIngestion\FromMFU\svg_test\015917_2014_01_16_16_34_16_185.xml'
+    at Object.fs.renameSync (fs.js:543:18)
+    at _getXmlData (C:\SVGroup\apps\mfu-stalker-chokidar\server.js:90:12)
+    at C:\SVGroup\apps\mfu-stalker-chokidar\xmlReader.js:28:7
+    at C:\SVGroup\apps\mfu-stalker-chokidar\xmlParser.js:19:7
+    at Parser.<anonymous> (C:\SVGroup\apps\mfu-stalker-chokidar\node_modules\xml2js\lib\xml2js.js:255:20)
+    at Parser.EventEmitter.emit (events.js:95:17)
+    at Object.saxParser.onclosetag (C:\SVGroup\apps\mfu-stalker-chokidar\node_modules\xml2js\lib\xml2js.js:225:24)
+    at emit (C:\SVGroup\apps\mfu-stalker-chokidar\node_modules\xml2js\node_modules\sax\lib\sax.js:602:33)
+    at emitNode (C:\SVGroup\apps\mfu-stalker-chokidar\node_modules\xml2js\node_modules\sax\lib\sax.js:607:3)
+    at closeTag (C:\SVGroup\apps\mfu-stalker-chokidar\node_modules\xml2js\node_modules\sax\lib\sax.js:848:5)
+
+fs.js:543
+  return binding.rename(pathModule._makeLong(oldPath),
+                 ^
+Error: ENOENT, no such file or directory 'D:\DatacapIngestion\FromMFU\010915\Darko\Scan_2014_01_21_11_40_57_394.xml'
+    at Object.fs.renameSync (fs.js:543:18)
+    at _getXmlData (C:\SVGroup\apps\mfu-stalker-chokidar\server.js:93:12)
+    at C:\SVGroup\apps\mfu-stalker-chokidar\xmlReader.js:28:7
+    at C:\SVGroup\apps\mfu-stalker-chokidar\xmlParser.js:19:7
+    at Parser.<anonymous> (C:\SVGroup\apps\mfu-stalker-chokidar\node_modules\xml2js\lib\xml2js.js:255:20)
+    at Parser.EventEmitter.emit (events.js:95:17)
+    at Object.saxParser.onclosetag (C:\SVGroup\apps\mfu-stalker-chokidar\node_modules\xml2js\lib\xml2js.js:225:24)
+    at emit (C:\SVGroup\apps\mfu-stalker-chokidar\node_modules\xml2js\node_modules\sax\lib\sax.js:602:33)
+    at emitNode (C:\SVGroup\apps\mfu-stalker-chokidar\node_modules\xml2js\node_modules\sax\lib\sax.js:607:3)
+    at closeTag (C:\SVGroup\apps\mfu-stalker-chokidar\node_modules\xml2js\node_modules\sax\lib\sax.js:848:5)
+
+fs.js:543
+  return binding.rename(pathModule._makeLong(oldPath),
+                 ^
+Error: ENOENT, no such file or directory 'D:\DatacapIngestion\FromMFU\010915\Scan_2014_01_21_13_57_12_547_001.tif'
+    at Object.fs.renameSync (fs.js:543:18)
+    at C:\SVGroup\apps\mfu-stalker-chokidar\server.js:141:16
+    at Array.forEach (native)
+    at _getXmlData (C:\SVGroup\apps\mfu-stalker-chokidar\server.js:106:22)
+    at C:\SVGroup\apps\mfu-stalker-chokidar\xmlReader.js:28:7
+    at C:\SVGroup\apps\mfu-stalker-chokidar\xmlParser.js:19:7
+    at Parser.<anonymous> (C:\SVGroup\apps\mfu-stalker-chokidar\node_modules\xml2js\lib\xml2js.js:255:20)
+    at Parser.EventEmitter.emit (events.js:95:17)
+    at Object.saxParser.onclosetag (C:\SVGroup\apps\mfu-stalker-chokidar\node_modules\xml2js\lib\xml2js.js:225:24)
+    at emit (C:\SVGroup\apps\mfu-stalker-chokidar\node_modules\xml2js\node_modules\sax\lib\sax.js:602:33)
+
+fs.js:543
+  return binding.rename(pathModule._makeLong(oldPath),
+                 ^
+Error: ENOENT, no such file or directory 'D:\DatacapIngestion\FromMFU\010915\Scan_2014_01_21_14_03_50_635_001.tif'
+    at Object.fs.renameSync (fs.js:543:18)
+    at C:\SVGroup\apps\mfu-stalker-chokidar\server.js:141:16
+    at Array.forEach (native)
+    at _getXmlData (C:\SVGroup\apps\mfu-stalker-chokidar\server.js:106:22)
+    at C:\SVGroup\apps\mfu-stalker-chokidar\xmlReader.js:28:7
+    at C:\SVGroup\apps\mfu-stalker-chokidar\xmlParser.js:19:7
+    at Parser.<anonymous> (C:\SVGroup\apps\mfu-stalker-chokidar\node_modules\xml2js\lib\xml2js.js:255:20)
+    at Parser.EventEmitter.emit (events.js:95:17)
+    at Object.saxParser.onclosetag (C:\SVGroup\apps\mfu-stalker-chokidar\node_modules\xml2js\lib\xml2js.js:225:24)
+    at emit (C:\SVGroup\apps\mfu-stalker-chokidar\node_modules\xml2js\node_modules\sax\lib\sax.js:602:33)

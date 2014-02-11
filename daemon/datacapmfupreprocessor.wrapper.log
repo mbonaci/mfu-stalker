@@ -1,0 +1,42 @@
+2013-12-30 15:07:25 - Starting C:\Program Files (x86)\nodejs\node.exe --harmony "C:\SVGroup\apps\mfu-stalker-chokidar\node_modules\node-windows\lib\wrapper.js" -f "C:\SVGroup\apps\mfu-stalker-chokidar\server.js" -l "Datacap MFU pre-processor" -g 0.25 -w 1 -r 3 -a n
+2013-12-30 15:07:25 - Started 4604
+2013-12-30 15:08:18 - Stopping datacapmfupreprocessor.exe
+2013-12-30 15:08:18 - ProcessKill 4604
+2013-12-30 15:08:18 - Finished datacapmfupreprocessor.exe
+2014-01-08 16:34:57 - Starting C:\Program Files (x86)\nodejs\node.exe --harmony "C:\SVGroup\apps\mfu-stalker-chokidar\node_modules\node-windows\lib\wrapper.js" -f "C:\SVGroup\apps\mfu-stalker-chokidar\server.js" -l "Datacap MFU pre-processor" -g 0.25 -w 1 -r 3 -a n
+2014-01-08 16:34:57 - Started 5916
+2014-01-09 13:43:21 - Stopping datacapmfupreprocessor.exe
+2014-01-09 13:43:21 - ProcessKill 5916
+2014-01-09 13:43:21 - Finished datacapmfupreprocessor.exe
+2014-01-10 13:06:52 - Starting C:\Program Files (x86)\nodejs\node.exe --harmony "C:\SVGroup\apps\mfu-stalker-chokidar\node_modules\node-windows\lib\wrapper.js" -f "C:\SVGroup\apps\mfu-stalker-chokidar\server.js" -l "Datacap MFU pre-processor" -g 0.25 -w 1 -r 3 -a n
+2014-01-10 13:06:52 - Started 4704
+2014-01-13 14:37:25 - Stopping datacapmfupreprocessor.exe
+2014-01-13 14:37:25 - ProcessKill 4704
+2014-01-13 14:37:25 - Finished datacapmfupreprocessor.exe
+2014-01-13 14:50:25 - Starting C:\Program Files (x86)\nodejs\node.exe --harmony "C:\SVGroup\apps\mfu-stalker-chokidar\node_modules\node-windows\lib\wrapper.js" -f "C:\SVGroup\apps\mfu-stalker-chokidar\server.js" -l "Datacap MFU pre-processor" -g 0.25 -w 1 -r 3 -a n
+2014-01-13 14:50:25 - Started 5004
+2014-01-16 16:47:13 - Stopping datacapmfupreprocessor.exe
+2014-01-16 16:47:13 - ProcessKill 5004
+2014-01-16 16:47:13 - Finished datacapmfupreprocessor.exe
+2014-01-18 14:48:57 - Starting C:\Program Files (x86)\nodejs\node.exe --harmony "C:\SVGroup\apps\mfu-stalker-chokidar\node_modules\node-windows\lib\wrapper.js" -f "C:\SVGroup\apps\mfu-stalker-chokidar\server.js" -l "Datacap MFU pre-processor" -g 0.25 -w 1 -r 3 -a n
+2014-01-18 14:48:57 - Started 8132
+2014-01-21 12:00:20 - Stopping datacapmfupreprocessor.exe
+2014-01-21 12:00:20 - ProcessKill 8132
+2014-01-21 12:00:20 - Finished datacapmfupreprocessor.exe
+2014-01-21 12:42:30 - Starting C:\Program Files (x86)\nodejs\node.exe --harmony "C:\SVGroup\apps\mfu-stalker-chokidar\node_modules\node-windows\lib\wrapper.js" -f "C:\SVGroup\apps\mfu-stalker-chokidar\server.js" -l "Datacap MFU pre-processor" -g 0.25 -w 1 -r 3 -a n
+2014-01-21 12:42:30 - Started 6452
+2014-01-21 14:15:54 - Stopping datacapmfupreprocessor.exe
+2014-01-21 14:15:54 - ProcessKill 6452
+2014-01-21 14:15:54 - Finished datacapmfupreprocessor.exe
+2014-01-21 14:15:56 - Starting C:\Program Files (x86)\nodejs\node.exe --harmony "C:\SVGroup\apps\mfu-stalker-chokidar\node_modules\node-windows\lib\wrapper.js" -f "C:\SVGroup\apps\mfu-stalker-chokidar\server.js" -l "Datacap MFU pre-processor" -g 0.25 -w 1 -r 3 -a n
+2014-01-21 14:15:56 - Started 7612
+2014-01-21 14:18:31 - Stopping datacapmfupreprocessor.exe
+2014-01-21 14:18:31 - ProcessKill 7612
+2014-01-21 14:18:31 - Finished datacapmfupreprocessor.exe
+2014-01-21 14:18:32 - Starting C:\Program Files (x86)\nodejs\node.exe --harmony "C:\SVGroup\apps\mfu-stalker-chokidar\node_modules\node-windows\lib\wrapper.js" -f "C:\SVGroup\apps\mfu-stalker-chokidar\server.js" -l "Datacap MFU pre-processor" -g 0.25 -w 1 -r 3 -a n
+2014-01-21 14:18:32 - Started 4796
+2014-01-22 08:59:53 - Stopping datacapmfupreprocessor.exe
+2014-01-22 08:59:53 - ProcessKill 4796
+2014-01-22 08:59:53 - Finished datacapmfupreprocessor.exe
+2014-01-22 13:09:08 - Starting C:\Program Files (x86)\nodejs\node.exe --harmony "C:\SVGroup\apps\mfu-stalker-chokidar\node_modules\node-windows\lib\wrapper.js" -f "C:\SVGroup\apps\mfu-stalker-chokidar\server.js" -l "Datacap MFU pre-processor" -g 0.25 -w 1 -r 3 -a n
+2014-01-22 13:09:08 - Started 6968
