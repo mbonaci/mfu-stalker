@@ -2,7 +2,7 @@
   "name": "MFU-Stalker",
   "preferGlobal": false,
   "version": "0.2.3",
-  "author": "Marko Bonaci <marko.bonaci@svgroup.hr>",
+  "author": "mbonaci",
   "description": "A simple file system watcher and xml/tif file pre-processor for MFU devices",
   "scripts": {
     "start": "node ./server.js"
